@@ -1,16 +1,15 @@
-## Hi there 👋
+## 🌐 Contato
 
-<!--
-**brunoalbertoni/brunoalbertoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://www.linkedin.com/in/bruno-henrique-albertoni-silva-720235312/" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" height="40">
+  </a>
 
-Here are some ideas to get you started:
+  <a href="https://www.instagram.com/bruno_albertoni/" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" height="40">
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="mailto:brunoalbertoni06@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail" alt="Email" height="40">
+  </a>
+</p>
