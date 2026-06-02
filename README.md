@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Bruno Henrique Albertoni Silva 👋</h1>
+#Olá, eu sou Bruno Henrique Albertoni Silva 👋
 
 💻 Desenvolvedor Web Full Stack
 🎓 Estudante de Ciência da Computação na UNIMAR (Universidade de Marília)
@@ -31,9 +31,4 @@ Buscando aprimorar meus conhecimentos em desenvolvimento Full Stack, arquitetura
   </a>
 </p>
 
----
-
-<p align="center">
-  🚀 Sempre em busca de aprender novas tecnologias e desenvolver soluções que gerem impacto real.
-</p>
 
