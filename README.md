@@ -18,15 +18,15 @@ Buscando aprimorar meus conhecimentos em desenvolvimento Full Stack, arquitetura
 
 <p align="left">
   <a href="https://www.linkedin.com/in/bruno-henrique-albertoni-silva-720235312/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" height="40">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="https://www.instagram.com/bruno_albertoni/" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" height="40">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
   <a href="mailto:brunoalbertoni06@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail" alt="Email" height="40">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
